@@ -58,7 +58,7 @@ const NAVBAR = `
                                             Türk Personel
                                         </a>
                                         <div class="dropdown-menu">
-                                            <a href="tBakanlik.html" class="dropdown-item">
+                                            <a href="index.html" class="dropdown-item">
                                                 Bakanlık Evrakları
                                             </a>
                                             <a href="tgiris.html" class="dropdown-item">Giriş Evrakları</a>
